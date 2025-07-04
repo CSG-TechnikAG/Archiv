@@ -1,3 +1,3 @@
 # Archiv
 
-Hier sind Dateien archiviert (z.B. Anleitungs-PDFs zu Geräten)
+Hier findet man archivierte Dateien (z.B. Anleitungs-PDFs zu Geräten).
